@@ -1,0 +1,6 @@
+[submodule "desKI-frontend"]
+	path = desKI-frontend
+	url = https://github.com/felleslosninger/desKI-frontend
+[submodule "desKI"]
+	path = desKI
+	url = https://github.com/felleslosninger/desKI
