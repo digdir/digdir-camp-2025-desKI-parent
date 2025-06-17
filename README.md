@@ -13,5 +13,5 @@ This repository serves as the parent project for the **desKI** backend and front
 To properly clone the repository **with submodules**, use the `--recurse-submodules` flag:
 
 ```bash
-git clone --recurse-submodules https://github.com/<your-org-or-username>/desKI-parent.git
+git clone --recurse-submodules https://github.com/felleslosninger/desKI-parent
 
